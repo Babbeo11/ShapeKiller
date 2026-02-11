@@ -14,8 +14,8 @@ My goal was **R&D (Research & Development)**: moving away from standard Behavior
 
 | Patrol & Detection (Gameplay) | AI Perception Debug (Developer View) |
 | :---: | :---: |
-| <video src="LINK_DEL_TUO_VIDEO_GAMEPLAY.mp4" autoplay loop muted playsinline width="100%"></video> | <video src="LINK_DEL_TUO_VIDEO_DEBUG.mp4" autoplay loop muted playsinline width="100%"></video> |
-| *Smooth transition: Patrol -> Suspicion -> Investigate* | *Visualizing Sight Cones & Hearing Events* |
+| ![Gameplay](https://github.com/user-attachments/assets/751a6faa-3979-4090-a696-2d0175354ac0) | ![Debug](https://github.com/user-attachments/assets/751a6faa-3979-4090-a696-2d0175354ac0) |
+| *Smooth state transitions.* | *Real-time vision & hearing logic.* |
 
 *(Note: The shapeshifting mechanic shown is used to test the AI's ability to distinguish props from players.)*
 
@@ -53,7 +53,7 @@ I created a flexible patrol component that allows Level Designers to set up path
       <img src="https://github.com/user-attachments/assets/e41cb592-6182-4b02-934a-4f5701567266" width="100%" style="display: block;" />
     </td>
     <td width="45%" valign="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/7c15fd0a-31e5-4d3a-a74a-707388da6ee1" width="100%" style="display: block;" />
+      <img src="https://github.com/user-attachments/assets/728606e0-64f7-4a6e-ab64-ca5dadf146b3" width="100%" style="display: block;" />
     </td>
   </tr>
   <tr>
