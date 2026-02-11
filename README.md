@@ -14,7 +14,7 @@ My goal was **R&D (Research & Development)**: moving away from standard Behavior
 
 | Patrol & Detection (Gameplay) | AI Perception Debug (Developer View) |
 | :---: | :---: |
-| ![Gameplay](https://github.com/user-attachments/assets/751a6faa-3979-4090-a696-2d0175354ac0) | ![Debug](https://github.com/user-attachments/assets/751a6faa-3979-4090-a696-2d0175354ac0) |
+| ![Gameplay](https://github.com/user-attachments/assets/4fc35039-69ec-4bd8-bfcf-7ed9062f668e) | ![Debug](https://github.com/user-attachments/assets/3a608a15-0ad4-4015-b31a-fd157a1ce906) |
 | *Smooth state transitions.* | *Real-time vision & hearing logic.* |
 
 *(Note: The shapeshifting mechanic shown is used to test the AI's ability to distinguish props from players.)*
@@ -44,7 +44,7 @@ To make the AI feel relentless, I implemented a **Predictive Pursuit** system us
 ### 3. Designer-Friendly Patrol System
 I created a flexible patrol component that allows Level Designers to set up paths without touching code.
 * **Dual Mode:** The AI can follow a specifically placed **Spline** or a list of **Waypoints (Actors)**.
-* **Exposed Parameters:** Designers can easily toggle between modes, adjust wait durations, and loop settings directly from the Details Panel.
+*Exposed Parameters:** Designers can easily toggle between modes, adjust wait durations, and loop settings directly from the Details Panel.
 
 <br>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
@@ -53,7 +53,7 @@ I created a flexible patrol component that allows Level Designers to set up path
       <img src="https://github.com/user-attachments/assets/e41cb592-6182-4b02-934a-4f5701567266" width="100%" style="display: block;" />
     </td>
     <td width="45%" valign="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/728606e0-64f7-4a6e-ab64-ca5dadf146b3" width="100%" style="display: block;" />
+      <img src="https://github.com/user-attachments/assets/47c8afc8-0fe3-4e29-822b-f5c1eb4a10a2" width="100%" style="display: block;" />
     </td>
   </tr>
   <tr>
